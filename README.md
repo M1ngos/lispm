@@ -1,2 +1,2 @@
 # lispm
-lisp written in C
+lisp-like language written in C
